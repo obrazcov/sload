@@ -1,7 +1,7 @@
 ##########################################################
 # Python console remote interface traffic load (by SNMP) #
 #    sload.py version 0.1.5                              #
-# http://obrazcov.github.com/sload                       #
+# http://obrazcov.github.io/sload                       #
 ##########################################################
 
 REQUIREMENTS:
